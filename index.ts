@@ -7,8 +7,8 @@
  * Click the notification to focus the terminal tab/window.
  */
 
-import type { ExtensionAPI } from "@mariozechner/pi-coding-agent";
-import type { AssistantMessage, TextContent } from "@mariozechner/pi-ai";
+import type { ExtensionAPI } from "@earendil-works/pi-coding-agent";
+import type { AssistantMessage, TextContent } from "@earendil-works/pi-ai";
 
 /**
  * Send a desktop notification via OSC 777 escape sequence.

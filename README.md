@@ -1,6 +1,6 @@
 # Pi Notify++
 
-A powerful notification extension for the [Pi Coding Agent](https://github.com/mariozechner/pi-coding-agent).
+A powerful notification extension for the [Pi Coding Agent](https://github.com/earendil-works/pi-coding-agent).
 
 Pi Notify++ sends native terminal notifications when the agent completes a turn, providing rich, at-a-glance context about what just happened without needing to switch tabs.
 
